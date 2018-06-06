@@ -1,0 +1,50 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-25-6 13:6:8",
+  "loopSlideshow" : 0,
+  "filename" : "PyCon2018 - dpp talk.key",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "PyCon2018 - dpp talk.key",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "0019724D-AF67-45B3-8A68-8DCC7600D309",
+    "E34E9841-1431-4940-9849-944D6924844D",
+    "0E691B7F-490B-4621-9CE8-8F7E179DEA89",
+    "560181EB-CD3F-4D4D-9774-325B33E4A896",
+    "27356B30-8ED7-449B-814D-44E1FE2D961B",
+    "0D1E2DA2-042B-4E2B-80D1-457C8132884E",
+    "BBF54511-3149-4CD4-B1F1-C572FBE78175",
+    "2F7EFDFA-634B-496E-B2A1-282749907BD7",
+    "28C7960C-BB6B-45A9-82AD-4B9B3E56C6F8",
+    "01D6FD6B-EC65-420A-9373-08C6F30B1047",
+    "AF265A99-C1BF-4A4C-A5D7-E7BBBAA2A44F",
+    "4BA1AA69-BDCE-4098-874D-D0B79FE2C034",
+    "C7119B44-39D7-42EE-BE0D-43ECFE769F9C",
+    "D83BF037-D28C-470D-9F26-EFB85E99FA9C",
+    "6059E90B-8964-408A-AB98-F1AC71301E17",
+    "5F3F4A30-6332-453A-8B50-34741B4C734E",
+    "7796F1A4-77B5-40A6-8C4A-CE67F2E9E52F",
+    "BED36853-194F-4A54-A87A-AC51EB672D9A",
+    "117495AC-C7A9-4DAA-88CC-CF95E6A46453"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 19,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue-Medium",
+    "HelveticaNeue",
+    "GillSans-Light",
+    "Helvetica"
+  ]
+}
